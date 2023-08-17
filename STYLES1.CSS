@@ -1,0 +1,59 @@
+/* Add this CSS code to your existing stylesheet or create a new one */
+
+/* Set a larger font size for the body */
+body {
+    font-size: 18px;
+    background-color: #3f3535;
+}
+
+/* Change the background color of the navigation bar */
+.navbar {
+    background-color: #3498db;
+}
+
+/* Change the color of the navigation links */
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+/* Change the color of the navigation links on hover */
+.navbar-nav .nav-link:hover {
+    color: #f39c12;
+}
+
+/* Change the color of the active navigation link */
+.navbar-nav .nav-item.active .nav-link {
+    color: #f39c12;
+}
+
+/* Change the background color of the container */
+.container {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+/* Set a larger font size for headings */
+h1 {
+    font-size: 36px;
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Set the text color for labels and form controls */
+label, .form-control {
+    color: #34495e;
+}
+
+/* Style the submit button */
+.btn-primary {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+}
+
+/* Change the background color of the submit button on hover */
+.btn-primary:hover {
+    background-color: #c0392b;
+    border-color: #a93226;
+}

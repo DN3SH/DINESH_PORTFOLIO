@@ -1,0 +1,26 @@
+/* Add this CSS to a file named "styles.css" and link it in your HTML code */
+
+/* Style the project containers */
+.project-container {
+    margin-bottom: 30px;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+/* Center the heading in the container */
+.project-container h3 {
+    margin-top: 0;
+}
+
+/* Add some spacing between the content elements */
+.project-container p {
+    margin-bottom: 10px;
+}
+
+/* Style the images */
+.project-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

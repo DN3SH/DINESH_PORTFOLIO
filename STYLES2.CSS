@@ -1,0 +1,26 @@
+/* Add this CSS to a file named "styles.css" and link it in your HTML code */
+
+/* Style the education containers */
+.education-container {
+    margin-bottom: 30px;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+/* Center the heading in the container */
+.education-container h3 {
+    margin-top: 0;
+}
+
+/* Add some spacing between the content elements */
+.education-container p {
+    margin-bottom: 10px;
+}
+
+/* Style the images */
+.education-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
